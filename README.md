@@ -1,5 +1,7 @@
 # Predictive Sales Analytics of My Family’s Business
 
+Link to the paper [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/keyvanip/ECO-312-Seminar-in-Forecasting/main/ProjectMarkdown.html)
+
 ## I. Abstract
 In this research project I use data analytics tools to find sales insights and predict the sales performance of my family’s business. 
 The company gathers the data in a daily time-series fashion where each row corresponds to an order being placed. 
